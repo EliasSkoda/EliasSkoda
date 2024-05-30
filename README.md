@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliasSkoda
 - 👀 I’m interested in coding in java 
-- 🌱 I’m currently learning coding in java and javascript 
+- 🌱 I’m currently learning coding in java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: I need this ? 
